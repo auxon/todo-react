@@ -1,6 +1,6 @@
 {
-  "name": "todo",
-  "version": "0.2.8",
+  "name": "inventstore",
+  "version": "0.1.0",
   "private": true,
   "dependencies": {
     "@babbage/react-prompt": "^0.2.15",

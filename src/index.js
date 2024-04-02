@@ -6,11 +6,11 @@ import App from './App'
 ReactDOM.render(
   <Prompt
     customPrompt
-    appName='ToDo List'
+    appName='inventStore'
     appIcon='/favicon.ico'
-    author='Peer-to-peer Privacy Systems Research, LLC'
-    authorUrl='https://projectbabbage.com'
-    description='Complete ToDo items, with a reward. This simple app demonstrates the power and potential of Bitcoin tokenization, by allowing every-day people to create and redeem ToDo outputs on a distributed ledger.'
+    author='RAH@entangleIT.com'
+    authorUrl='https://EntangleIT.com'
+    description='Personal and Private Inventory Management running on Bitcoin'
     supportedMetaNet='universal' // 'universal' is the default (app works on both Mainnet & Testnet) or value can be just 'mainnet' or 'testnet'
     nativeAppUrls= {{
       iOS: {
